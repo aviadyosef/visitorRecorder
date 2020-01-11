@@ -1,2 +1,2 @@
-# visitorRecorder
-audit customer behivour in store 
+# VisitorRecorder
+audit customer behavior in store 
